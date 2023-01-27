@@ -40,6 +40,7 @@ describe('removeTask function testing', () => {
   });
 });
 
+// testing removeAllCompleted function
 describe('removeAllCompleted function testing', () => {
   test('test 1', () => {
     expect(removeAllCompleted([{ description: 'swimming', completed: true, index: 1 },
