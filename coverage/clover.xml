@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1674806171982" clover="3.2.0">
-  <project timestamp="1674806171983" name="All files">
-    <metrics statements="23" coveredstatements="23" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5" elements="36" coveredelements="36" complexity="0" loc="23" ncloc="23" packages="1" files="1" classes="1"/>
-    <file name="CRUD.js" path="C:\Users\mekus\Downloads\Pair-Programming-TodoList-Test\src\modules\CRUD.js">
+<coverage generated="1674828791834" clover="3.2.0">
+  <project timestamp="1674828791835" name="All files">
+    <metrics statements="35" coveredstatements="33" conditionals="10" coveredconditionals="9" methods="7" coveredmethods="7" elements="52" coveredelements="49" complexity="0" loc="35" ncloc="35" packages="1" files="2" classes="2"/>
+    <file name="CRUD.js" path="/home/matama/Pair-Programming-TodoList/src/modules/CRUD.js">
       <metrics statements="23" coveredstatements="23" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
       <line num="3" count="2" type="stmt"/>
       <line num="4" count="2" type="stmt"/>
@@ -27,6 +27,21 @@
       <line num="35" count="6" type="stmt"/>
       <line num="37" count="3" type="stmt"/>
       <line num="40" count="1" type="stmt"/>
+    </file>
+    <file name="interactivity.js" path="/home/matama/Pair-Programming-TodoList/src/modules/interactivity.js">
+      <metrics statements="12" coveredstatements="10" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
