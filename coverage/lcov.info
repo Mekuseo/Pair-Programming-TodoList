@@ -1,5 +1,5 @@
 TN:
-SF:src/modules/CRUD.js
+SF:src\modules\CRUD.js
 FN:2,(anonymous_0)
 FN:9,(anonymous_1)
 FN:18,(anonymous_2)
@@ -49,7 +49,7 @@ BRF:8
 BRH:8
 end_of_record
 TN:
-SF:src/modules/interactivity.js
+SF:src\modules\interactivity.js
 FN:1,(anonymous_0)
 FN:13,(anonymous_1)
 FNF:2
